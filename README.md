@@ -1,4 +1,4 @@
-# Biscuit theme for Jekyll
+# My site based using Jekyll and Biscuit theme
 
 [Biscuit](http://sblisesivdin.github.io/biscuit) is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find.
 
@@ -9,8 +9,3 @@ For local usage just download [Jekyll](http://jekyllrb.com/), use installation g
 
 If you prefer to use Github Pages, you do not need to download it, upload files to a new repository...etc, just [fork](https://docs.github.com/en/get-starter/quickstart/fork-a-repo) and use it.
 
-## License
-
-Biscuit is derived from currently deprecated theme [Solo](http://github.com/chibicode/solo). The development of Biscuit is maintained by [Sefer Bora Lisesivdin](https://lrgresearch.org/bora).
-
-Biscuit and [the previous code](http://github.com/chibicode/solo) where Biscuit is derived are distributed with [MIT license](https://github.com/sblisesivdin/biscuit/blob/gh-pages/LICENSE).
