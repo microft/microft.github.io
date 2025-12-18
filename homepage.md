@@ -10,6 +10,8 @@ title: page
 * [cockpit](https://192.168.1.88:9090/){:target="_blank"}
 * [transmission](http://192.168.1.3:9091/){:target="_blank"}
 * [jellyfin](http://192.168.1.5:8096/){:target="_blank"}
+* [pi-hole](http://192.168.1.9/admin/){:target="_blank"}
+
 
 
 
